@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dharma-ms
-- 👀 I’m interested Cyberscurity
+- 👀 I’m interested in Cyberscurity
 - 🌱 I’m currently network,security tool
 
 <!---
